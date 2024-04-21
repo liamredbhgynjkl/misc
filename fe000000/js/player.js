@@ -69,7 +69,7 @@ let initialPlayer = {
   highestGenerator: 0,
   sacrificeMultiplier: new Decimal(1),
   prestigePower: new Decimal(1),
-  infinityPoints: new Decimal(1000000000000000000),
+  infinityPoints: new Decimal(100000000000),
   infinities: 10000,
   realInfinities: 0,
   infinityStars: new Decimal(1),
