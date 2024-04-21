@@ -95,7 +95,7 @@ let initialPlayer = {
   ],
   infinityChallengeRestartOnCompletion: false,
   hideCompletedInfinityChallenges: false,
-  breakInfinity: false,
+  breakInfinity: true,
   autobuyers: initialAutobuyers(),
   eternityPoints: new Decimal(0),
   eternities: new Decimal(0),
